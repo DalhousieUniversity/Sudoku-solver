@@ -1,1 +1,5 @@
-.project
+.*
+Debug/
+*.o
+Task.*
+Task
