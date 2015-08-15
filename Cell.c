@@ -15,6 +15,9 @@ void select_cell(cell *c) {
 	mycell = c;
 }*/
 
+void nothing(){
+}
+
 struct cell_struct{
 	int _flag[_f_size];
 };
